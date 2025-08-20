@@ -1,0 +1,5 @@
+CM01 | John | 4 Star Rating | Good and clean clinic
+CM02 | Mary | 4 Star Rating | Very Helpful Doctor
+CM03 | Alex | 5 Star Rating | Very good and helpful nurse and doctor
+CM04 | Rob | 3 Star Rating | Toilet not clean
+CM05 | Angela | 4 Star Rating | Very good service

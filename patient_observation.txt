@@ -1,0 +1,5 @@
+CM01 | John | 21 | Male | 37C | 80bpm | 70mg
+CM02 | Mary | 19 | Female | 40C | 90bpm | 80mg
+CM03 | Alex | 25 | Male | 39C | 70bpm | 80mg
+CM04 | Rob | 20 | Male | 38C | 110bpm | 90mg
+CM05 | Angela | 24 | Female | 37C | 100bpm | 110mg

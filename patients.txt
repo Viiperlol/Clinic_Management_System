@@ -1,0 +1,10 @@
+CM01 | John | 21 | Male | General | John21
+CM02 | Mary | 19 | Female | Ear | Mary19
+CM03 | Alex | 25 | Male | Eye | Alex25
+CM04 | Rob | 20 | Male | Skin | Rob20
+CM05 | Angela | 24 | Female | General | Angela24
+CM06 | Sammy | 26 | Male | Skin | Sammy26
+CM07 | Adam | 22 | Male | General | Adam22
+CM08 | Anna | 19 | Female | Eye | Anna19
+CM09 | Ahmed | 28 | Male | General | Ahmed28
+CM10 | Charles | 29 | Male | Ear | Charles29

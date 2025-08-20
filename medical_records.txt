@@ -1,0 +1,6 @@
+CM01 | John | 21 | Male | Common Cold | Paracetamol 250g | 3 times a day and Drink warm fluids | General
+CM02 | Mary | 19 | Female | Ear infection (Otitis Media) | Amoxicillin – 250mg | 3 times a day and keep ears dry | Ear
+CM03 | Alex | 25 | Male | Conjunctivitis | Eye drops (Chloramphenicol) | 1 drop every 4 hours and avoid touching eyes | Ear
+CM04 | Rob | 20 | Male | Eczema | Hydrocortisone cream | Apply twice daily and avoid scratching | Skin
+CM05 | Angela | 24 | Female | Hypertension | Amlodipine 5mg | Once a day and reduce salt intake | General
+CM06 | Sammy | 26 | Male | Dry Skin | CeraVe Lotion | Twice a day | Skin

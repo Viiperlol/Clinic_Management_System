@@ -1,0 +1,5 @@
+CM01 | John | 21 | Male | General | Monday @ 10am
+CM02 | Mary | 19 | Female | Ear | Thursday @ 2pm
+CM03 | Alex | 25 | Male | Eye | Saturday @ 12pm
+CMO4 | Rob | 20 | Male | Skin | Tuesday @ 3pm
+CM05 | Angela | 24 | Female | General | Wednesday @ 9am

@@ -1,0 +1,5 @@
+CM01 | John |Paracetamol 250g
+CM02 | Mary |Amoxicillin 250g
+CM03 | Alex |Eye drops (Chloramphenicol)
+CM04 | Rob |Hydrocortisone cream
+CM05 | Angela |Amlodipine 5mg

@@ -1,0 +1,6 @@
+CM01 | $30 | Card
+CM02 | $35 | Cash
+CM03 | $75 | Card
+CM04 | $40 | Cash
+CM05 | $30 | Card
+CM06 | $40 | Card
