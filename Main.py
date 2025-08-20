@@ -1,7 +1,7 @@
 from Receptionist import *               # Import all required modules for each user role
 from Doctor import *
 from Nurse import *
-from Patient import *4
+from Patient import *
 
 
 def main_menu():           # Main menu function to  direct users to their role-specific menus
@@ -35,6 +35,7 @@ def main_menu():           # Main menu function to  direct users to their role-s
             print("\n" * 10)
 
 main_menu()
+
 
 
 
